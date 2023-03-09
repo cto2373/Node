@@ -1,1 +1,1 @@
-console.log(0+(-1));
+console.log(Math.floor(6 / 2));
